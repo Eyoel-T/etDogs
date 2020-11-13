@@ -1,0 +1,158 @@
+#title{
+	background-color: #ff4c68;
+}
+.brand{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3em;
+	line-height: 1.5;
+	color: white;
+	margin-top: 10%;
+	padding-bottom: 5%;
+
+}
+.container{
+	padding: 3% 15% 3% 15%;
+
+}
+.nvbar-brand{
+	font-family: "Ubuntu";
+	font-size: 2.5rem;
+	display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: white;
+
+
+	}
+ .nvbar-brand {
+ 	color: white;
+    text-decoration: none;
+    background-color: transparent;
+
+ }
+ .nvbar-brand:hover{
+ 	 
+     color: white; 
+     text-decoration: none; 
+
+ }
+.rott{
+	width: 47%;
+	transform: rotate(25deg);
+    position: absolute;
+
+
+
+
+}
+.bran{
+	text-decoration: none;
+	color: white;
+}
+.nav-item{
+	padding: 0 18px;
+}
+.nav-link{
+	font-size: 1.2rem;
+}
+#features{
+	background-color: white;
+	padding: 100px;
+	position: relative;
+	z-index: 1;
+}
+.features-item{
+	text-align: center;
+}
+.icon{
+	padding-bottom: 10px;
+	color: #ef8172;
+}
+.icon:hover{
+	color: #ff4c68;
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+	padding: 5px;
+}
+.featurpp{
+	color: #8f8f8f;
+
+}
+.testih2{
+	font-family: "Montserrat";
+	color: #fff;
+	font-size: 2.5em;
+	line-height: 1.5;
+	padding-top: 5%;
+}
+#testimonials{
+	background-color: #ef8172;
+	 
+	text-align: center;
+}
+.imgdog{
+	width: 10%;
+	border-radius: 100%;
+	margin-right: 20px;
+}
+#press{
+	background-color: #ef8172;
+	text-align: center; 
+}
+.imgpress{
+	width: 15%;
+	margin: 0% 3%;
+	padding-bottom: 5%;
+}
+.carousel-item{
+	padding: 5% 15%;
+}
+#pricing{
+	padding: 100px ;
+}
+@media (max-width: 992px){
+	#title{
+       text-align: center;
+	}
+	.rott{
+		position: static;
+		transform: rotate(0);
+	}
+}
+#cta{
+	background-color: #ff4c68;
+	height: 500px;
+}
+.footer-title{
+	font-family: 'Montserrat', sans-serif;
+	padding-top: 5%;
+	text-align: center;
+	color: white;
+	font-size: 80px;
+}
+
+.foot-bu{
+	text-align: center;
+	padding-top:60px;
+
+}
+.foot-button{
+	padding-left: 10px;
+}
+#footer{
+	text-align: center;
+	padding: 100px;
+}
+.icon-f{
+	padding: 10px;
+}
+.fotter-p{
+	padding-top: 10px;
+	color: #8f8f8f;
+	font-weight: bold;
+	
+}
